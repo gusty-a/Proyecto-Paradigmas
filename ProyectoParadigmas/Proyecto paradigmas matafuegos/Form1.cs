@@ -15,6 +15,7 @@ namespace Proyecto_paradigmas_matafuegos
         public Form1()
         {
             InitializeComponent();
+            //gus estuvo aqui
         }
     }
 }
